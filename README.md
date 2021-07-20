@@ -10,7 +10,7 @@ TO set up this cluster :
 1. Need to have Docker desktop running 
 
 Execute this commands:
-1. minikuber start --vm-driver=docker
+1. minikube start --vm-driver=docker
 2. minikube dashboard // This will open up the kubernetes UI on your browser
 
 ***start up  new CMD ****
