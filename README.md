@@ -16,3 +16,5 @@ Execute this commands:
 3. kubectl apply -f mongo.yaml
 4. kubectl apply -f mongo-express.yaml
 5. minikube service mongo-express-service //this will open up the MONGO UI on the browser
+
+***********************************END*****************************************************
