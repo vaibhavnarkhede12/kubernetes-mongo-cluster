@@ -1,6 +1,9 @@
 ******************************* kubernetes-mongo-cluster **********************************
+
 Kubernetes MONGO clusterwith Mongo EXPRESS UI: reference by NANA JANASHIA youtube tutorials
+
 Reference youtube link https://www.youtube.com/watch?v=X48VuDVv0do
+
 *********************************** use the master branch *********************************
 
 TO set up this cluster :
@@ -16,5 +19,3 @@ Execute this commands:
 3. kubectl apply -f mongo.yaml
 4. kubectl apply -f mongo-express.yaml
 5. minikube service mongo-express-service //this will open up the MONGO UI on the browser
-
-***********************************END*****************************************************
