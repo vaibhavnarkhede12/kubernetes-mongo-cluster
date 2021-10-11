@@ -3,6 +3,7 @@
 Kubernetes MONGO clusterwith Mongo EXPRESS UI: reference by NANA JANASHIA youtube tutorials
 
 Reference youtube link https://www.youtube.com/watch?v=X48VuDVv0do
+Reference for docker tuts : https://www.youtube.com/watch?v=3c-iBn73dDE
 
 *********************************** use the master branch *********************************
 
